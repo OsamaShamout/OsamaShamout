@@ -11,15 +11,9 @@
 #### Making the world a better place one act at a time 
 
 --- 
-
-
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Osama Shamout's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OsamaShamout&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&bg_color=000051&text_color=ffffff&border_color=000000" />
-
-<br>
-<br>
-<br>
+  <img align="left" alt="Osama Shamout's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OsamaShamout&show_icons=true&theme=github_dark&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=000051&text_color=ffffff&border_color=ffffff" />
 
 ---
-
+<summary>:zap: Most Used Languages</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaShamout&theme=github_dark&title_color=ffffff&icon_color=ffffff&bg_color=000051&text_color=ffffff)]
