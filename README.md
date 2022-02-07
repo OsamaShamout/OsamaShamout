@@ -13,9 +13,8 @@
 --- 
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Osama Shamout's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OsamaShamout&show_icons=true&theme=github_dark&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=000051&text_color=ffffff&border_color=ffffff" />
-<br>
-<br>
 
+<br>
 <summary>:zap: Most Used Languages</summary
 
 
