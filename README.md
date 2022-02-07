@@ -8,7 +8,7 @@
 - 📫 📫 You can reach me @ osama.shamout@lau.edu
 
 
-#### Making the world a better place line of code at a time 
+#### Making the world a better place one line of code at a time 
 
 --- 
   <summary>:zap: GitHub Stats</summary>
