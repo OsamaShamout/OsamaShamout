@@ -16,4 +16,5 @@
 
 ---
 <summary>:zap: Most Used Languages</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaShamout&theme=github_dark&title_color=ffffff&icon_color=ffffff&bg_color=000051&text_color=ffffff)]
