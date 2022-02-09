@@ -3,7 +3,7 @@
 - 🏫 🇱🇧 I am a Computer Science student with minor in Acturaial Science at the Lebanese American University, Beirut.  
 - 📲 👯 Currently focusing on developing mobile applications and websites. PS: I’m looking for people to collaborate with.
 - 🤓 🖥 Interested in Operating Systems and Computer Architecture.  
-- 📈 📚 My free time is spent in reading Economics, Blockchain Technology, and Middle Eastern Affairs. 
+- 📈 📚 Favorite reads span around Economics, Blockchain Technology, and Middle Eastern Affairs. 
 - 📸 🎥 Video editing and photography are becoming a thing with me. 
 - 📫 📫 You can reach me @ osama.shamout@lau.edu
 
