@@ -38,11 +38,14 @@
 
 ###
 
-<p align="left">- 🏫 CS Grad | Minor in Data Analytics | 6x AWS Certified<br>- ☁️ Architecting + Automating Cloud Solutions for Digico Solutions <br>- 📚  Actively researching in security, machine learning, and blockchain systems and their intersections. <br>Latest: Investigating Differentially Private Machine Learning Models for APT <br>- ⚡ Economics, geopolitics, videography, and traveling fuel my curiosity.</p>
+<p align="left">- 🏫 CS Grad | Minor in Data Analytics | 6x AWS Certified<br>- ☁️ Architecting + Automating Cloud Solutions for Digico Solutions <br>- 📚  Actively researching in security, machine learning, and blockchain systems and their intersections. <br>&nbsp; &nbsp; &nbsp; &nbsp; Latest research  : Investigating Differentially Private Machine Learning Models for APT <br>- ⚡ Economics, geopolitics, videography, and traveling fuel my curiosity.<br>- 📫 You can reach me at oshamout@digico.me</p>
+
+#### Making the world a better place one line of code at a time...
+
 
 ###
 
-<h3 align="left">🛠  In a typical day, I use the following languages and tools</h3>
+<h3 align="left">🛠&nbsp;&nbsp;In a typical day, I use the following languages and tools</h3>
 
 ###
 
@@ -74,7 +77,7 @@
 
 ###
 
-<h3 align="left">📊    My humble stats (so far):</h3>
+<h3 align="left">📊&nbsp;&nbsp;My humble stats (so far):</h3>
 
 ###
 
@@ -91,7 +94,7 @@
 
 ###
 
-<h2 align="left">Contributions Graph</h2>
+<h2 align="left">⚡ Contributions Graph</h2>
 
 ###
 
